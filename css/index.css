@@ -1,0 +1,17 @@
+
+body {
+    background-color: #e9e9e9;
+}
+#cabeza {
+    width: 100%;
+}
+nav{
+    background-color: #cca338!important;
+}
+nav ul a:hover {
+    background-color: #ff0000!important;
+}
+footer{
+    background-color: #00437a;
+    padding: 15px!important;
+}
